@@ -1,0 +1,158 @@
+<!doctype html> 
+<html lang="vi"> 
+  <head> 
+    <meta charset="UTF-8" /> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+    <title>Khoa Khoa học dữ liệu và Trí tuệ nhân tạo</title> 
+  </head> 
+
+  <body> 
+
+    <header> 
+      <img 
+        src="https://scontent.fhan19-1.fna.fbcdn.net/v/t39.30808-6/449446631_122117265236332776_432269982272389255_n.jpg?stp=dst-jpg_tt6&cstp=mx692x692&ctp=s692x692&_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH65K3IShwlE35w974Z_EHMlg3ZeYh-yhuWDdl5iH7KG2Tk8VvaqpqMbBaNzJ6scnwSEm4EnsBP8w34O6a_eJGy&_nc_ohc=EhPYAP8tYUUQ7kNvwEgClDI&_nc_oc=AdrSrNY71xqOP-frX_eyKjA6jfLtI475RjkL6-EI4fA7uIxWGW5RnaPkCa2wS8AZPtM&_nc_zt=23&_nc_ht=scontent.fhan19-1.fna&_nc_gid=deX1icFotemV1VbYHmEtIQ&_nc_ss=7b2a8&oh=00_AQGYKf0QgtHaXz0OSrvRJxN-BOj5t70mSWizyrdvjCFhzA&oe=6A837045"  
+        alt="Logo Khoa Khoa học dữ liệu và Trí tuệ nhân tạo"  
+        width="100"  
+      /> 
+
+      <h2>Khoa Khoa học dữ liệu và Trí tuệ nhân tạo</h2> 
+    </header> 
+
+    <nav> 
+      <a href="#overview">Giới thiệu</a> 
+      <a href="#programs">Chương trình đào tạo</a> 
+      <a href="#features">Điểm nổi bật</a> 
+      <a href="#contact">Liên hệ</a> 
+    </nav> 
+
+    <main> 
+
+      <section id="overview"> 
+        <h2>Giới thiệu</h2> 
+
+        <p> 
+          Khoa Khoa học dữ liệu và Trí tuệ nhân tạo cung cấp các chương trình giáo dục
+          và đào tạo trong lĩnh vực khoa học máy tính, phát triển phần mềm
+          và các công nghệ hiện đại.
+        </p>
+
+        <p>
+          Khoa hướng tới việc trang bị cho sinh viên cả kiến thức lý thuyết
+          và kỹ năng thực hành cần thiết cho công việc trong tương lai.
+        </p>
+
+        <a href="https://fda.neu.edu.vn/" target="_blank"> 
+          Truy cập trang web của Khoa
+        </a>
+
+      </section> 
+
+      <section id="features"> 
+        <h2>Điểm nổi bật</h2> 
+
+        <p> 
+          Sinh viên có nhiều cơ hội phát triển kiến thức và kỹ năng
+          thực hành thông qua các hoạt động học tập khác nhau.
+        </p>
+
+        <ul>
+          <li>Phòng máy tính hiện đại</li>
+          <li>Các môn học lập trình thực hành</li>
+          <li>Các dự án làm việc theo nhóm</li>
+          <li>Hội thảo và chuyên đề về công nghệ</li>
+        </ul>
+      </section> 
+
+    <section id="programs">
+    <h2>Chương trình đào tạo</h2>
+    <p>
+        Khoa cung cấp các chương trình đào tạo kết hợp giữa
+        công nghệ thông tin với kinh tế, tài chính và logistics.
+    </p>
+
+    <figure>
+        <img src = "https://scontent.fhan19-1.fna.fbcdn.net/v/t39.30808-6/726405231_122214086174332776_4254771024478089588_n.png?stp=dst-png&cstp=mx1920x710&ctp=s1920x710&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFNbBci12QPJ6M1OR5D1wXSxBdKSs42AdLEF0pKzjYB0uI1LubRb_QmgXmKKhFzXHq7TtypLwp53FtZH7wb2TMb&_nc_ohc=-Wm41av84GMQ7kNvwH6P1RD&_nc_oc=AdpHYYQ3qzsaWaE5QhzpnCB3ChqUEM5eZIUXePyjjXt98fFfcCAU-Zr2rmIG0AAWW5c&_nc_zt=23&_nc_ht=scontent.fhan19-1.fna&_nc_gid=aAPQnS40bZ6mGk2QpwgTnw&_nc_ss=7b2a8&oh=00_AQHdN5xOM58QWHVhC103YIibV2pNPDplt67DloM-VsQUbQ&oe=6A83558B" width = "650" height = "300">
+        <figcaption>Các ngành đào tạo của khoa Khoa học dữ liệu và Trí tuệ nhân tạo</figcaption>
+     </figure>
+
+    <table>
+        <caption>Chương trình đào tạo của Khoa Khoa học dữ liệu và Trí tuệ nhân tạo</caption>
+
+        <thead>
+        <tr>
+            <th>Ngành học</th>
+            <th>Thời gian đào tạo</th>
+            <th>Định hướng</th>
+        </tr>
+        </thead>
+
+        <tbody>
+        <tr>
+            <td>Trí tuệ nhân tạo</td>
+            <td>4 năm</td>
+            <td>AI, học máy và các ứng dụng thông minh</td>
+        </tr>
+
+        <tr>
+            <td>Khoa học dữ liệu trong tài chính và thương mại điện tử</td>
+            <td>4 năm</td>
+            <td>Phân tích dữ liệu, tài chính và thương mại điện tử</td>
+        </tr>
+
+        <tr>
+            <td>Công nghệ logistics và quản lý chuỗi cung ứng</td>
+            <td>4 năm</td>
+            <td>Ứng dụng công nghệ trong logistics và quản lý chuỗi cung ứng</td>
+        </tr>
+        </tbody>
+
+    </table>
+
+    </section>
+
+      <section id="contact"> 
+        <h2>Liên hệ</h2> 
+
+        <p>
+          Vui lòng điền thông tin liên hệ của bạn để nhận được phản hồi từ Khoa Khoa học dữ liệu và Trí tuệ nhân tạo.
+        </p>
+
+        <form action="https://example.com/submit" method="post">
+          <label for="fullname">Họ và tên:</label>
+          <input type="text" id="fullname" name="fullname" required>
+          <br>
+
+          <label for="Age">Tuổi:</label>
+          <input type="number" id="Age" name="Age" min="0">
+          <br>
+
+          <label for="gender">Giới tính: </label>
+          <select id="gender" name="gender">
+            <option value="male">Nam</option>
+            <option value="female">Nữ</option>
+            <option value="other">Khác</option>
+          </select>
+          <br>
+          
+          <label for="phone">Số điện thoại:</label>
+          <input type="tel" id="phone" name="phone">
+          <br>
+
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required>
+          <br>
+
+          <button type="submit">Gửi</button>
+        </form>
+      </section>  
+
+    </main>  
+
+
+    <footer> 
+      <p>&copy; 2026 Khoa Khoa học dữ liệu và Trí tuệ nhân tạo</p> 
+      
+    </footer> 
+
+  </body>  
+</html>
